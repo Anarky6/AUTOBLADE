@@ -1,5 +1,5 @@
 # AUTOBLADE:INTELLIGENT LAWN MOWING SYSTEM
-Taking the hardware developed as part of ClemensElfleins work on Openmower and adapting it to fit a 2019 Landroid WR141E.
+Taking the hardware developed as part of clement thomas work on AUTOBLADE and adapting it to fit a 2019 Landroid 
 
 This is my first venture into Github so it might get a bit clunky. 
 Usual rules apply.. please try to be constructive, I'm learning as I go so if you're going to leave some negative feedback have the grace to tell me why and how I can put it ri
